@@ -1,0 +1,14 @@
+{
+  "name": "site-de-Jamylli",
+  "version": "1.0.0",
+  "description": "Um site criado para ajudar e apoiar pessoas",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jamylli Gabrielle Pereira Soares",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
